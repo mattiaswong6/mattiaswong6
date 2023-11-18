@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Mattias
+### Hi there 👋 my name is Matty
 
 <!--
 **mattiaswong6/mattiaswong6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
