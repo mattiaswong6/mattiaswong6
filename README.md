@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Mattias!
 
 - 🎒 Studying Computer Science @ University of British Columbia
-- 🏢 Software Developer Intern @ UBC Faculty of Medicine, Educational Technology
+- 🏢 Prev. DevOps Engineer Intern @ Ericsson and SWE Intern @ UBC Faculty of Medicine
 - 🏎️ BMS Firmware Engineer @ UBC Formula Electric Design Team
 - 👾 Aspiring Software Engineer
 - 🏒 :fishing_pole_and_fish: 👨‍🍳 Hockey, fishing, and cheffing enthusiast
